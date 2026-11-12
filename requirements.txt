@@ -1,0 +1,8 @@
+streamlit>=1.50
+qdrant-client>=1.9
+google-genai>=1.0
+pypdf>=4.0
+langchain-text-splitters>=0.2
+pandas>=2.0
+numpy>=1.24
+python-dotenv>=1.0
